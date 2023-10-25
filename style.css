@@ -368,9 +368,11 @@ nav .left{
     box-shadow: 0 40px 60px rgba(0,0,0,0.1);
     padding: 80px 0 0 10px;
     transition: 0.3s;
+    
     }
     #right.active{
     right: 0px;
+   
     }
    .firstsection >div {
     font-size: 1.5rem;
@@ -486,7 +488,7 @@ nav .left{
     }
 
     .icon-div a:hover {
-        font-size: 32px;
+        font-size: 25px;
     }
 
     .resume {
